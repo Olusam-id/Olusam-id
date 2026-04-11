@@ -1,6 +1,6 @@
 # Sam's Professional Portfolio
 ---
-Data Analytics Professional | Automation Consultant | Power BI Developer
+Data Analytics Professional | Automation Specialist | Power BI Developer
 ----
 
 Bridging the gap between raw data and actionable business intelligence — with deep hands-on expertise in workflow automation, data visualization, and end-to-end analytics solutions.
