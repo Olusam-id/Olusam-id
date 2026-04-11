@@ -47,7 +47,6 @@ Currently building a focused **data analytics portfolio** that demonstrates real
 
 ## 📊 Data Analytics Projects
  
----
  
 ### 1. COVID-19 Global Data Analysis
 **Tools:** PostgreSQL · Tableau  
@@ -95,7 +94,36 @@ Built an end-to-end marketing analytics dashboard analyzing customer response be
  
 ---
  
-### 4. Crypto Watcher — Automated Price Monitoring System
+### 4. The Daily Grind Coffee — Profit Margin & Pricing Strategy Analysis
+**Tools:** SQL · Power BI · DAX  
+**Theme:** Retail Analytics & Pricing Strategy  
+**Data Range:** 2023–2025 Order Data
+ 
+**Overview:**  
+Management at The Daily Grind Coffee requested a full review of their product portfolio following observed profit margin erosion attributed to rising Cost of Goods Sold (COGS), tariffs, and market pressures. This project delivers an end-to-end analytical solution — from SQL data extraction through to an interactive Power BI dashboard with actionable pricing recommendations.
+ 
+**Key Highlights:**
+- Extracted and transformed multi-year order data using SQL, connected live to Power BI via SQL Connector
+- Built a two-page interactive Power BI report: an Executive Dashboard with KPI cards, donut chart, matrix table, and regional trend lines; and a Product Breakdown page for individual margin analysis
+- Identified a 4.2 percentage point margin erosion from 56.64% (2023) to 52.43% (2025) across the portfolio
+- Flagged six products below the 30% GMP threshold in Q3 2025, including three in critical decline (Minimalist Keychain, Chemex Filters, Logo Hoodie — all below 12%)
+- Delivered tiered pricing recommendations: price increases, discontinuation candidates, COGS renegotiation targets, and high-margin anchors to prioritize for investment
+- Grinders & Brewers identified as the dominant revenue category at 57.89% ($504.29K), with subscription products showing the strongest margin health
+ 
+**Portfolio KPIs:**
+ 
+| Metric | Value |
+|---|---|
+| Total Revenue | $871.07K |
+| Gross Profit | $473.43K |
+| COGS | $393.36K |
+| Blended Gross Margin | 54.84% (declining) |
+| Total Customers | 200 |
+| Total Orders | 11K |
+ 
+---
+
+### 5. Crypto Watcher — Automated Price Monitoring System
 **Tools:** Make.com · CoinGecko API · Telegram · Slack · Gmail · Twilio · Lovable.dev  
 **Theme:** Financial Data Automation & Real-Time Alerting
  
@@ -111,7 +139,7 @@ Designing and building a fully automated cryptocurrency price monitoring system 
  
 ---
  
-### 5. Employee Time-Off Management Automation
+### 6. Employee Time-Off Management Automation
 **Tools:** Airtable · Zapier  
 **Theme:** HR & Workflow Automation
  
