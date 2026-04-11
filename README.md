@@ -152,7 +152,13 @@ Consolidated an employee PTO management process into a fully automated four-Zap 
 - Implemented a lookup → calculate → write-back sequence for real-time PTO balance updates
 - Scheduled an annual reset Zap to refresh employee balances at the start of each leave year
 - Documented the full implementation as a reference guide with step-by-step Zap configuration details
- 
+
+---
+
+ ##Project Links
+ <br>
+ - <a href="https://github.com/Olusam-id/SQL-Data-Portfolio"> SQL Projects </a>
+ - <a href="https://github.com/Olusam-id/Power-BI"> Power BI Projects </a>
 ---
  
 ## 🎯 Professional Goal
