@@ -159,6 +159,7 @@ Consolidated an employee PTO management process into a fully automated four-Zap 
  <br>
  - <a href="https://github.com/Olusam-id/SQL-Data-Portfolio"> SQL Projects </a>
  - <a href="https://github.com/Olusam-id/Power-BI"> Power BI Projects </a>
+ - <a href="https://github.com/Olusam-id/technical-support-engineering"> Technical Support Engineering </a>
 ---
  
 ## 🎯 Professional Goal
