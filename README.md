@@ -4,7 +4,7 @@
 ### **Data Analyst | AI Automation Specialist | Solutions Architect**
 
 [![Website](https://img.shields.io/badge/Website-4thnested.com.ng-0078D4?style=for-the-badge&logo=googlechrome&logoColor=white)](https://4thnested.com.ng)
-[![GitHub Profile](https://img.shields.io/badge/GitHub-Olusam--id-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Olusam-id)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Samuel%20Ayodeji%20Idowu-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samuel-ayodeji-idowu/)
 [![X / Twitter](https://img.shields.io/badge/X-@Olusamist-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Olusamist)
 [![Location](https://img.shields.io/badge/Location-Lagos,%20Nigeria-107C41?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
 
